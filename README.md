@@ -17,6 +17,7 @@ Este script tiene como objetivo principal dos cosas:
 # Como ejecutar el script
 
 • Pasos a realizar: 
+
   › touch fichero_datos.txt
   
   › python3 proyecto.py
@@ -29,6 +30,7 @@ Este script tiene como objetivo principal dos cosas:
   › rss = 'https://e00-marca.uecdn.es/rss/futbol/sevilla.xml'
 
 • Nombre Archivo: linea 7 && 39
+
   › f = open('fichero_datos.txt', 'r')
   
   › with open('fichero_datos.txt', 'a') as f:
