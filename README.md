@@ -28,6 +28,7 @@ Este script tiene como objetivo principal dos cosas:
 
 • Nombre Archivo: linea 7 && 39
   › f = open('fichero_datos.txt', 'r')
+  
   › with open('fichero_datos.txt', 'a') as f:
 
-## Si hay algu error notificarlo por favor, un saludo.
+## Si hay algun error notificarlo por favor, un saludo.
