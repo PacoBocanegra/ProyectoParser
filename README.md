@@ -18,7 +18,7 @@ Este script tiene como objetivo principal dos cosas:
 
 • Pasos a realizar: 
 
-    touch fichero_datos.txt (solo es necesario crearlo 1 vez, en posteriores ejecuciones lo usa como referencia para saber si hay novedades)
+    touch fichero_datos.txt #(solo es necesario crearlo 1 vez, en posteriores ejecuciones lo usa como referencia para saber si hay novedades)
   
     python3 proyecto.py
     
