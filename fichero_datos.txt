@@ -1,0 +1,3 @@
+Recuerda crear este fichero antes de ejecutar el script:
+
+> touch fichero_datos.txt
