@@ -18,7 +18,9 @@ Este script tiene como objetivo principal dos cosas:
 
 • Pasos a realizar: 
   › touch fichero_datos.txt
+  
   › python3 proyecto.py
+  
   › cat fichero_datos.txt
 
 # Como modificar los enlaces o el nombre del archivo
@@ -31,4 +33,5 @@ Este script tiene como objetivo principal dos cosas:
   
   › with open('fichero_datos.txt', 'a') as f:
 
-## Si hay algun error notificarlo por favor, un saludo.
+
+Si hay algun error notificarlo por favor, un saludo.
