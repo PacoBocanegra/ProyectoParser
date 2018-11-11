@@ -10,19 +10,19 @@ Este script esta realizado integramente en Python 3. Para ello he utilizado el m
 
 Este script tiene como objetivo principal dos cosas:
 
-• Obtener la información contenida dentro de las etiquetas <title> & Filtrar dicha información, para recopilar únicamente la que nosotros necesitamos
+   • Obtener la información contenida dentro de las etiquetas <title> & Filtrar dicha información, para recopilar únicamente la que nosotros necesitamos
   
-• Además, si lo ejecutamos varias veces, únicamente recopilará la información nueva. Es decir, solo recogerá noticias o información nueva. 
+   • Además, si lo ejecutamos varias veces, únicamente recopilará la información nueva. Es decir, solo recogerá noticias o información nueva. 
 
 # Como ejecutar el script
 
 • Pasos a realizar: 
 
-  › touch fichero_datos.txt
+     › touch fichero_datos.txt
   
-  › python3 proyecto.py
-  
-  › cat fichero_datos.txt
+     › python3 proyecto.py
+    
+     › cat fichero_datos.txt
 
 # Como modificar los enlaces o el nombre del archivo
 
