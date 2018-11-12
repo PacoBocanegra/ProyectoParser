@@ -24,7 +24,11 @@ Este script tiene como objetivo principal dos cosas:
     
     cat fichero_datos.txt
 
-# Como modificar los enlaces o el nombre del archivo
+# Como modificar el fitro de palabra, los enlaces al rss o el nombre del archivo donde se almacena la información:
+
+• Filtro de Palabras: linea 4
+
+    filtro = ['Betis','vs','madrid']
 
 • Enlaces: linea 26
 
