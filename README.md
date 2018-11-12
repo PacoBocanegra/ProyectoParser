@@ -10,8 +10,8 @@ Este script esta realizado integramente en Python 3. Para ello he utilizado el m
 
 Este script tiene como objetivo principal dos cosas:
 
-   • Obtener la información contenida dentro de las etiquetas <title>, mediante una lista de palabras (Ej, si la lista contiene la palabra "sevilla", te recopilará todas las etiquetas que contengan en su interior la palabra "Sevilla").
-  
+   • Obtener la información contenida dentro de las etiquetas <title> mediante una lista de palabras. (Ej, si la lista contiene la palabra "sevilla", recopilará toda la información contenida en dichas etiquetas si aparece la palabra "sevilla").
+   
    • Además, si lo ejecutamos varias veces, este script es capaz de detectar información nueva con respecto a la que ya había almacenada en el fichero_datos.txt. Por lo que solo recogerá noticias nuevas o que no estaban almacenadas ya en dicho fichero (es perfecto para recopilar información reciente)
 
 # Como ejecutar el script
