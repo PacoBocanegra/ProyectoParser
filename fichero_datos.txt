@@ -1,3 +1,4 @@
-Recuerda crear este fichero antes de ejecutar el script:
+\--(Enlaces_de_Noticias)--/
 
-> touch fichero_datos.txt
+
+
