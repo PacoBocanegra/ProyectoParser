@@ -1,7 +1,13 @@
 import feedparser
 
 # Palabras para buscar dentro de la etiqueta <title>
-filtro = ['Betis','vs','madrid']
+datos = " "
+filtro = []
+datos = input("Quieres filtrar las noticias de un equipo en concreto? (Escribe cual): ")
+while datos:
+    filtro.append(datos)
+    datos = input("Otro equipo (Escribe en el caso de que quieras filtrar otro): ")
+
 
 # Comprueba que los enlaces no estan en nuestro fichero (hay que crearlo antes de ejecutar el script).
 f = open('fichero_datos.txt', 'r')
